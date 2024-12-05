@@ -53,7 +53,7 @@ void optimization_deal(){
 
 }
 
-// 矪ぃэ穝糤蛤эoptimization_shuffle();籔optimization_deal();把计﹚竡
+// 矪ぃэ穝糤蛤эoptimization_shuffle();籔optimization_deal();把计㊣
 int main(void){
     const char* suit[4] = { "Hearts", "Diamonds", "Clubs", "Spades" };
     const char* face[13] = {

@@ -99,7 +99,7 @@ int newSearch() {
 
 }
 
-// 矪ぃээint newSearchResult = newSearch();柑把计﹚竡
+// 矪ぃээint newSearchResult = newSearch();柑把计㊣
 int main(void) {
     int arr[SIZE];
     generateUniqueRandomArray(arr, SIZE, RANGE_START, RANGE_END, 12345);
